@@ -34,3 +34,5 @@ This project is an interactive Power BI dashboard designed to analyze mobile sal
 
 <img width="974" height="687" alt="Image" src="https://github.com/user-attachments/assets/1d38a8a6-220c-4e59-b00a-b4189e528edc" />
 
+https://github.com/Piyush-Kumar95/Mobile_Data_Analysis_Dashboard_PowerBI/blob/main/Screen%20Recording%202026-04-25%20130259.mp4
+
